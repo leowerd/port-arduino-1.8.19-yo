@@ -12,3 +12,15 @@
 ![изображение](https://github.com/leowerd/port-arduino-1.8.19-yo/assets/22613147/f801140a-2cde-4a26-89c4-43f0add3f16f)
 6) Дождались окончания процесса, плата ожидает подключения, подключаемся к точке доступа yo-radio (проще со смартфона), и вводдим данные своего роутера (имя\пароль).
 7) Теперь радио доступно по IP адресу. Вы великолепны.
+
+
+
+Ссылки на авторов:
+
+проект Алекса https://alexgyver.ru/benderadio/
+
+топик на форуме https://community.alexgyver.ru/threads/internet-radio-v-forme-golovy-bendera-obsuzhdenie-proekta.9158/
+
+yoradio https://github.com/e2002/yoradio
+
+автор плагина bender для yoradio https://community.alexgyver.ru/search/254375/
