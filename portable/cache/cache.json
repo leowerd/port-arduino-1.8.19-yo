@@ -1,42 +1,42 @@
 {
   "files" : [ {
     "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
-    "localPath" : "C:\\arduino-1.8.19yo\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
-    "eTag" : "787ae0879aaea49560c4ff26f8fa78d2",
-    "md5" : "MD5:787ae0879aaea49560c4ff26f8fa78d2",
-    "createdAt" : "2024-04-20T12:55:16.796",
+    "localPath" : "F:\\port-arduino-1.8.19-yo1\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "5c39fc6b0833a001862ab438636a87d1",
+    "md5" : "MD5:5c39fc6b0833a001862ab438636a87d1",
+    "createdAt" : "2024-04-20T15:51:55.349",
     "cacheControl" : {
       "maxAge" : -1,
-      "noCache" : false,
       "noStore" : false,
-      "mustRevalidate" : false
+      "mustRevalidate" : false,
+      "noCache" : false
     },
-    "expires" : "2024-04-20T12:55:15.796"
+    "expires" : "2024-04-20T15:51:54.349"
   }, {
     "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
-    "localPath" : "C:\\arduino-1.8.19yo\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
-    "eTag" : "0a5a6b5863a097bbced3d12a1ece27ba",
-    "md5" : "MD5:0a5a6b5863a097bbced3d12a1ece27ba",
-    "createdAt" : "2024-04-20T12:55:17.876",
+    "localPath" : "F:\\port-arduino-1.8.19-yo1\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "90d545aefb2479a0f7338da901d56b6f",
+    "md5" : "MD5:90d545aefb2479a0f7338da901d56b6f",
+    "createdAt" : "2024-04-20T15:51:56.316",
     "cacheControl" : {
       "maxAge" : -1,
-      "noCache" : false,
       "noStore" : false,
-      "mustRevalidate" : false
+      "mustRevalidate" : false,
+      "noCache" : false
     },
-    "expires" : "2024-04-20T12:55:16.876"
+    "expires" : "2024-04-20T15:51:55.316"
   }, {
     "remoteURL" : "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json",
-    "localPath" : "C:\\arduino-1.8.19yo\\portable\\cache\\raw.githubusercontent.com\\espressif\\arduino-esp32\\gh-pages\\package_esp32_index.json",
+    "localPath" : "F:\\port-arduino-1.8.19-yo1\\portable\\cache\\raw.githubusercontent.com\\espressif\\arduino-esp32\\gh-pages\\package_esp32_index.json",
     "eTag" : "7e161f35773d27c11ad4e7cbe59d4d63a54a162a97224e1a1dd454a20bc218b8",
     "md5" : "MD5:69de10032f16cbf594a1f38c332861d3",
-    "createdAt" : "2024-04-20T12:55:13.392",
+    "createdAt" : "2024-04-20T15:51:51.706",
     "cacheControl" : {
       "maxAge" : 300,
-      "noCache" : false,
       "noStore" : false,
-      "mustRevalidate" : false
+      "mustRevalidate" : false,
+      "noCache" : false
     },
-    "expires" : "2024-04-20T13:00:13.392"
+    "expires" : "2024-04-20T15:56:51.706"
   } ]
 }
